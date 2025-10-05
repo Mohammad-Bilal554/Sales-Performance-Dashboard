@@ -14,11 +14,8 @@ This project presents an interactive **Sales Dashboard** built using **Tableau**
 - **Electronics** and **Food** categories lead in revenue generation.  
 - Monthly sales show **steady performance** with minor seasonal variations.  
 
-## 🛠 Tools Used
+## Tools Used
 - Tableau (Dashboard creation and visualization)  
 - CSV Dataset (Sales Data)
 
-## 📁 Deliverables
-- Dashboard Screenshot (`Sales_Performance_Dashboard.png`)  
-- Insights Text File (`Insights.txt`)
 
